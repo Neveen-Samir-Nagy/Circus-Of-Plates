@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/engine_v3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/king/Downloads/Compressed/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/game/finalGame/finalGame/lib/my_jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/king/Downloads/play-mp3-java-master/play-mp3-java-master/jl-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
